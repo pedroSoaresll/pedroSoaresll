@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-| <a href="https://github.com/pedroSoaresll/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-nu-13.vercel.app/api?username=pedroSoaresll&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pedro's github stats" /></a> | <a href="https://github.com/pedroSoaresll/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-nu-13.vercel.app/api/top-langs/?username=pedroSoaresll&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/pedroSoaresll/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-nu-13.vercel.app/api?username=pedroSoaresll&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&v=1" alt="Pedro's github stats" /></a> | <a href="https://github.com/pedroSoaresll/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-nu-13.vercel.app/api/top-langs/?username=pedroSoaresll&layout=compact&theme=buefy&hide_border=true&v=1" /></a> |
 | ------------- | ------------- |
