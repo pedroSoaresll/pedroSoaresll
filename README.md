@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 - 🌍 Based in: **[Barueri - SP (see on Google Maps)](https://maps.app.goo.gl/AwBEiy2FNgMPNui3A)**
 - 💻 Developer specializing in **Web Frontend ReactJS, but transitioning to Backend GoLang/NodeJS**
-- 🎓 Currently learning: **[GoLang, AI for developers, System Design]**
+- 🎓 Currently learning: **GoLang, AI for developers, System Design**
 - ⚡ Fun fact: **I love to play games, and build personal projects to help local businesses**
 
 ## 🛠️ Technologies & Tools
