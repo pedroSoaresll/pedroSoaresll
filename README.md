@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 🌐 Portfolio: Working on it... 🚧
 - 📧 Email: [mail me](mailto:pedrodepaivasoaresll@gmail.com)
 
---]
+---
 
 Feel free to explore my repositories and projects. Open to collaboration and learning together!
 
