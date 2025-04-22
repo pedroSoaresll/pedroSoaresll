@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🏆 Achievements
 
-- **During my career, I did many courses, built many projects, and worked for many companies, even though I am always learning**
-- **My most important projects are private, because all of them are entrepreneurial initiatives (but I can show you if applicable)**
+- **During my career, I did many courses, built many projects, and worked for many companies; even so, I am always learning**
+- **Most important projects are private, because all of them are entrepreneurial initiatives (but I can show you if applicable)**
 
 ## 📫 Let's Connect!
 
