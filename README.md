@@ -1,4 +1,4 @@
-# Hi there, I'm Pedro Soares! (He/Him) 👋
+# Hi there, I'm Pedro Oliveira! (He/Him) 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building innovative projects. Here's a little bit about me:
 
