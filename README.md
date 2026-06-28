@@ -15,14 +15,22 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, Go, SQL, GraphQL
-- **Frameworks & Libraries:** React, Next.js, Serverless Framework, Echo, AWS CDK (Go), AWS Amplify, AWS SDK, React Hook Form, TanStack Query, Material UI (MUI), Tailwind CSS, Zod, Yup, Axios, Firebase, Firebase Admin, OpenAI, Stripe, Brevo, Sentry, Vercel Analytics, Vercel Speed Insights, date-fns, Fontsource, QR Code, UUID
-- **Tools:** Git, GitHub, Docker, VS Code, Chrome DevTools, DBeaver, MySQL Workbench, Postman, Slack, Figma, Jira, Trello, Draw.io
+- **Languages:** Go, TypeScript, JavaScript, SQL, GraphQL
+- **Backend:** Go (Echo), Node.js, REST APIs, Serverless Framework, AWS Lambda, Event-Driven Architecture, Microservices
+- **Cloud & Infrastructure:** AWS (Lambda, ECS, Fargate, DynamoDB, SQS, SNS, EventBridge, API Gateway, CloudWatch, Cognito), AWS CDK (Go), Docker, Kubernetes
+- **Frontend:** React, Next.js, Tailwind CSS, Material UI, TanStack Query, React Hook Form
+- **Databases & Messaging:** DynamoDB, MySQL, EventBridge, SQS, SNS
+- **AI & Developer Tools:** OpenAI API, LangChain, LangGraph, MCP, AI Agent Engineering
+- **Observability & Testing:** Grafana, Sentry, k6, CloudWatch
+- **Developer Tools:** Git, GitHub, VS Code, Postman, DBeaver, Figma, Jira
 
 ## 🌱 Current Projects
 
-- 🔭 Building **Barx**, a platform for barbershops that manages walk-in queues and appointments, while also contributing to **iFood** projects
-- 🧠 Exploring **backend technologies, distributed systems, and AI-powered developer tools**
+- 🔭 Building **Barx**, a SaaS platform that helps barbershops manage appointments, walk-in queues, subscriptions, payments, customer engagement, and business analytics.
+- 🥩 Designing **BSM (ButcherShop Management)**, an event-driven ordering platform focused on conversational commerce, asynchronous workflows, and resilient distributed systems.
+- 🤖 Researching and building **AI-powered developer platforms**, including agentic workflows, LangGraph orchestration, MCP integrations, retrieval systems, and LLM-driven automation.
+- ☁️ Exploring **cloud-native architectures** with Go, Kubernetes, AWS, distributed systems, observability, and high-scale event-driven applications.
+- 💼 Contributing to **iFood** by developing scalable production software and improving engineering practices.
 
 ## 🏆 Achievements
 
