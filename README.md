@@ -8,36 +8,34 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🚀 About Me
 
-- 🌍 Based in: **[Barueri - SP (see on Google Maps)](https://maps.app.goo.gl/AwBEiy2FNgMPNui3A)**
-- 💻 Developer specializing in **Web Frontend ReactJS, but transitioning to Backend GoLang/NodeJS**
-- 🎓 Currently learning: **GoLang, AI for developers, System Design**
-- ⚡ Fun fact: **I love to play games, and build personal projects to help local businesses**
+- 🌍 Based in: **[Barueri, São Paulo, Brazil (View on Google Maps)](https://maps.app.goo.gl/AwBEiy2FNgMPNui3A)**
+- 💻 Software Engineer specializing in **React.js frontend development**, currently transitioning to **backend development with Go and Node.js**
+- 🎓 Currently learning: **Go, AI for Software Engineers, and System Design**
+- ⚡ Fun fact: **I love drinking iced beverages while taking a shower**
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Javascript/Node.js, GoLang, SQL, GraphQL
-- **Frameworks & Libraries:** ReactJS, NextJS, Serverless Framework, Echo, AWS CDK (GoLang), AWS Amplify, date-fns, Fontsource, React Hook Form, Hotjar, Material-UI (MUI), Sentry, TanStack React Query, Vercel Analytics and Speed Insights, Axios, Firebase, QR Code, React, Tailwind CSS, Yup, Zod, AWS SDK, TypeScript, Brevo, Firebase Admin, OpenAI, Stripe, UUID.
-- **Tools:** Git, GitHub, Docker, VS Code, Google Chrome Developer Tools, DBeaver, MySQL Workbench, Postman, Slack, Figma, Trello, Jira, Draw.io
+- **Languages:** JavaScript, TypeScript, Go, SQL, GraphQL
+- **Frameworks & Libraries:** React, Next.js, Serverless Framework, Echo, AWS CDK (Go), AWS Amplify, AWS SDK, React Hook Form, TanStack Query, Material UI (MUI), Tailwind CSS, Zod, Yup, Axios, Firebase, Firebase Admin, OpenAI, Stripe, Brevo, Sentry, Vercel Analytics, Vercel Speed Insights, date-fns, Fontsource, QR Code, UUID
+- **Tools:** Git, GitHub, Docker, VS Code, Chrome DevTools, DBeaver, MySQL Workbench, Postman, Slack, Figma, Jira, Trello, Draw.io
 
 ## 🌱 Current Projects
 
-- 🔭 Working on: **Barx, a platform for barbershops who attend in line, and ifood projects**
-- 🧠 Exploring: **Server-side technologies and developer AI usages**
+- 🔭 Building **Barx**, a platform for barbershops that manages walk-in queues and appointments, while also contributing to **iFood** projects
+- 🧠 Exploring **backend technologies, distributed systems, and AI-powered developer tools**
 
 ## 🏆 Achievements
 
-- **During my career, I did many courses, built many projects, and worked for many companies; even so, I am always learning**
-- **Most important projects are private, because all of them are entrepreneurial initiatives (but I can show you if applicable)**
+- **Throughout my career, I've completed numerous courses, built many projects, and worked with several companies. Despite that, I believe there's always something new to learn.**
+- **Most of my most significant projects are private because they are commercial or entrepreneurial initiatives. I'm happy to discuss or demonstrate them when appropriate.**
 
 ## 📫 Let's Connect!
 
 - 💼 LinkedIn: [v1-oliveirapedro](https://www.linkedin.com/in/v1-oliveirapedro/)
-- 🐦 Twitter: [@poliveirapedro](https://x.com/poliveirapedro)
-- 🌐 Portfolio: Working on it... 🚧
+- 🐦 X (Twitter): [@poliveirapedro](https://x.com/poliveirapedro)
+- 🌐 Portfolio: **Coming soon... 🚧**
 - 📧 Email: [mail me](mailto:pedrodepaivasoaresll@gmail.com)
 
 ---
 
-Feel free to explore my repositories and projects. Open to collaboration and learning together!
-
-
+Feel free to explore my repositories and projects. I'm always open to collaborating, learning, and building great software together!
